@@ -6,7 +6,7 @@ The goal here is use docker and create an golang image with less than 2MB.
 
 Public image in Docker Hub:
 
-    gustavocr19/fullcycle
+    https://hub.docker.com/r/gustavocr19/fullcycle
 
 Run:
 
